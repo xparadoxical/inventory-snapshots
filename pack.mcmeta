@@ -1,0 +1,6 @@
+{
+    "pack": {
+        "pack_format": 8,
+        "description": "Periodically saves snapshots of inventories of all online players."
+    }
+}
